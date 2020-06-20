@@ -1,5 +1,4 @@
-name: IBM Cloud Auto Restart
-
+name: IBM Cloud Auto Restartb39e66aced2404dafbb21d5ac34d49b595b39e66aced2404dafbb21d5ac34d49b595
 on:
   push:
     branches: [ master ]
